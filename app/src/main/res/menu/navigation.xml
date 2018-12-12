@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+            android:id="@+id/navigation_match"
+            android:icon="@drawable/ic_trophy"
+            android:title="@string/title_home"/>
+
+    <item
+            android:id="@+id/navigation_team"
+            android:icon="@drawable/ic_soccer"
+            android:title="@string/title_dashboard"/>
+
+    <item
+            android:id="@+id/navigation_favorite"
+            android:icon="@drawable/ic_heart"
+            android:title="@string/title_notifications"/>
+
+</menu>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Football Lite</string>
+    <string name="title_home">Matches</string>
+    <string name="title_dashboard">Teams</string>
+    <string name="title_notifications">Favorites</string>
+
+    <array name="league">
+        <item>English Premier League</item>
+        <item>German Bundesliga</item>
+        <item>Italian Serie A</item>
+        <item>French Ligue 1</item>
+        <item>Spanish La Liga</item>
+    </array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_team">TeamActivity</string>
+    <string name="team_overview">Overview</string>
+    <string name="team_players">Players</string>
+</resources>
